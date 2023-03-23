@@ -16,6 +16,7 @@
     "i18next": "^22.4.12",
     "jspdf": "^2.5.1",
     "pdfmake": "^0.2.7",
+    "puppeteer": "^19.7.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^12.2.0",
